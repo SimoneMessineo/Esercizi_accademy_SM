@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Esame">e092bea12f7d2010230fbea62799b614</application>
+        <filter/>
+        <name>Esames</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_570207_esami2.esame_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:01:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c92bea12f7d2010230fbea62799b616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Esames</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_update_name>sys_ui_module_2c92bea12f7d2010230fbea62799b616</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:01:42</sys_updated_on>
+        <table>x_570207_esami2_esame</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Esami2">ea1323d12f752010230fbea62799b6e8</application>
+        <file_path/>
+        <instance_id>2b2fc5f8db6edb80ff27d5b0cf961903</instance_id>
+        <instance_name>dev60566</instance_name>
+        <name>sys_ui_module_2c92bea12f7d2010230fbea62799b616</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Esame">e092bea12f7d2010230fbea62799b614</application><filter/><name>Esames</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_570207_esami2.esame_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:01:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2c92bea12f7d2010230fbea62799b616</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Esames</sys_name><sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package><sys_policy/><sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope><sys_update_name>sys_ui_module_2c92bea12f7d2010230fbea62799b616</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 08:01:42</sys_updated_on><table>x_570207_esami2_esame</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1692263286</payload_hash>
+        <record_name>Esames</record_name>
+        <reverted_from/>
+        <source>6a1323d12f752010230fbea62799b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:01:42</sys_created_on>
+        <sys_id>e092bea12f7d2010230fbea62799b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17719a9ee180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:01:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2c92bea1f17d20108ffbfc13a3c8a518</update_guid>
+        <update_guid_history>2c92bea1f17d20108ffbfc13a3c8a518:1692263286</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:54:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>22781f0d07b444ac95a8c800a82c6190</sys_id>
+        <sys_metadata>2c92bea12f7d2010230fbea62799b616</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Esames</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">368a710ea3b94488b4614fc48471f804</sys_scope_delete>
+        <sys_update_name>sys_ui_module_2c92bea12f7d2010230fbea62799b616</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_2c92bea12f7d2010230fbea62799b616">e092bea12f7d2010230fbea62799b619</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:54:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

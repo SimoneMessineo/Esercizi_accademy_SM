@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Esame" max_length="40" name="x_570207_esami2_tab1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data" max_length="40" name="data" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Esame" mandatory="true" max_length="40" name="esame" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="economia" label="Facoltà" mandatory="true" max_length="40" name="facolt" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Altre" value="altre"/>
+                <element inactive_on_update="false" label="Economia" value="economia"/>
+                <element inactive_on_update="false" label="Informatica" value="informatica"/>
+                <element inactive_on_update="false" label="Scienze" value="scienze"/>
+                <element inactive_on_update="false" label="Statistica" value="statistica"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Matricola" mandatory="true" max_length="40" name="matricola" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="u_requestedfor" reference="task" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="task" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="3" label="State" mandatory="true" max_length="40" name="u_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Closed complete" sequence="0" value="3"/>
+                <element inactive_on_update="false" label="requested" sequence="1" value="13"/>
+                <element inactive_on_update="false" label="waiting approval" sequence="2" value="14"/>
+                <element inactive_on_update="false" label="approved" sequence="3" value="15"/>
+                <element inactive_on_update="false" label="waiting feedback" sequence="4" value="16"/>
+                <element inactive_on_update="false" label="reject" sequence="5" value="8"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_requested_for"/>
+        </index>
+        <index name="index2">
+            <element name="u_requestedfor"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Esami2">d8b3afd12f752010230fbea62799b602</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Tab1</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 16:57:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1cb3afd12f752010230fbea62799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_update_name>sys_app_module_1cb3afd12f752010230fbea62799b605</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-18 16:57:50</sys_updated_on>
+        <timeline_page/>
+        <title>Tab1</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Esami2">ea1323d12f752010230fbea62799b6e8</application>
+        <file_path/>
+        <instance_id>2b2fc5f8db6edb80ff27d5b0cf961903</instance_id>
+        <instance_name>dev60566</instance_name>
+        <name>sys_app_module_1cb3afd12f752010230fbea62799b605</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Esami2">d8b3afd12f752010230fbea62799b602</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Tab1</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-18 16:57:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1cb3afd12f752010230fbea62799b605</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab1</sys_name><sys_overrides/><sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package><sys_policy/><sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope><sys_update_name>sys_app_module_1cb3afd12f752010230fbea62799b605</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-18 16:57:50</sys_updated_on><timeline_page/><title>Tab1</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2084469550</payload_hash>
+        <record_name>Tab1</record_name>
+        <reverted_from/>
+        <source>6a1323d12f752010230fbea62799b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 16:57:50</sys_created_on>
+        <sys_id>9cb3afd12f752010230fbea62799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177166e69fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-18 16:57:50</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d4b3afd11b75201020665ef38338e007</update_guid>
+        <update_guid_history>d4b3afd11b75201020665ef38338e007:-2084469550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tab1">8577f6652f7d2010230fbea62799b671</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:23:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>099ff78875064d1784c449b77b208a29</sys_id>
+        <sys_metadata>1cb3afd12f752010230fbea62799b605</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab1</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">368a710ea3b94488b4614fc48471f804</sys_scope_delete>
+        <sys_update_name>sys_app_module_1cb3afd12f752010230fbea62799b605</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1cb3afd12f752010230fbea62799b605">9cb3afd12f752010230fbea62799b607</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:23:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

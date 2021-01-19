@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Esami2">d8b3afd12f752010230fbea62799b602</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_570207_esami2_tab1">u_stateIN13,14,16^EQ<item display_value="13,14,16" endquery="false" field="u_state" goto="false" newquery="false" operator="IN" or="false" value="13,14,16"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Esami in attesa</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_570207_esami2_tab1</name>
+        <order>500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_570207_esami2.esame_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 09:27:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79a583612fbd2010230fbea62799b6bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Esami in attesa</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_update_name>sys_app_module_79a583612fbd2010230fbea62799b6bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 09:27:16</sys_updated_on>
+        <timeline_page/>
+        <title>Esami in attesa</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

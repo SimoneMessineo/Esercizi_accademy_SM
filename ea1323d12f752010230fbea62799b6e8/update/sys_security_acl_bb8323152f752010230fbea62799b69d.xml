@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_570207_esami2_tab1</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 16:57:15</sys_created_on>
+        <sys_id>bb8323152f752010230fbea62799b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_570207_esami2_tab1</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_update_name>sys_security_acl_bb8323152f752010230fbea62799b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-18 16:57:15</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

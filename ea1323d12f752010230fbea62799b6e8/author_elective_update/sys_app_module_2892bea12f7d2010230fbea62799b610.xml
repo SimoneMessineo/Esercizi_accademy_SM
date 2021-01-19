@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Esame">9092bea12f7d2010230fbea62799b60d</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_570207_esami2_esame">u_state_eIN3,15^EQ<item display_value="3,15" endquery="false" field="u_state_e" goto="false" newquery="false" operator="IN" or="false" value="3,15"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Esames</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_570207_esami2_esame</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_570207_esami2.esame_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:01:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2892bea12f7d2010230fbea62799b610</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Esame approvati</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_update_name>sys_app_module_2892bea12f7d2010230fbea62799b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:49:48</sys_updated_on>
+        <timeline_page/>
+        <title>Esame approvati</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Esami2">ea1323d12f752010230fbea62799b6e8</application>
+        <file_path/>
+        <instance_id>2b2fc5f8db6edb80ff27d5b0cf961903</instance_id>
+        <instance_name>dev60566</instance_name>
+        <name>sys_app_module_2892bea12f7d2010230fbea62799b610</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Esame">9092bea12f7d2010230fbea62799b60d</application><assessment/><device_type/><filter table="x_570207_esami2_esame">u_state_eIN3,15^EQ<item display_value="3,15" endquery="false" field="u_state_e" goto="false" newquery="false" operator="IN" or="false" value="3,15"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Esames</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_570207_esami2_esame</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_570207_esami2.esame_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:01:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2892bea12f7d2010230fbea62799b610</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Esame approvati</sys_name><sys_overrides/><sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package><sys_policy/><sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope><sys_update_name>sys_app_module_2892bea12f7d2010230fbea62799b610</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 08:49:48</sys_updated_on><timeline_page/><title>Esame approvati</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-195997723</payload_hash>
+        <record_name>Esame approvati</record_name>
+        <reverted_from/>
+        <source>6a1323d12f752010230fbea62799b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:49:48</sys_created_on>
+        <sys_id>fc9d3a692f7d2010230fbea62799b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17719d5f4280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:49:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>789d3a69af7d20109d56be47c40618fb</update_guid>
+        <update_guid_history>789d3a69af7d20109d56be47c40618fb:-195997723,416936e5a47d201078ec62ea51df1818:-1746079492,a092bea1107d20105a3cf6d432fea213:1164858706</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Esame approvati">ccaeb6e92f7d2010230fbea62799b6c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:54:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>22ef97d504624cd2bb820fb42c5faca4</sys_id>
+        <sys_metadata>2892bea12f7d2010230fbea62799b610</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Esame approvati</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">368a710ea3b94488b4614fc48471f804</sys_scope_delete>
+        <sys_update_name>sys_app_module_2892bea12f7d2010230fbea62799b610</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2892bea12f7d2010230fbea62799b610">fc9d3a692f7d2010230fbea62799b6fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:54:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

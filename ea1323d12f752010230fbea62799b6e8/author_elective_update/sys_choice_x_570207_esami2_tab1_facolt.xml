@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="facolt" table="x_570207_esami2_tab1" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>facolt</element>
+            <name>x_570207_esami2_tab1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:57:12</sys_created_on>
+            <sys_id>4b8323152f752010230fbea62799b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>facolt</sys_name>
+            <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+            <sys_update_name>sys_choice_x_570207_esami2_tab1_facolt</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:57:12</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>facolt</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Altre</label>
+            <language>en</language>
+            <name>x_570207_esami2_tab1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:57:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f8323152f752010230fbea62799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:57:13</sys_updated_on>
+            <value>altre</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>facolt</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Economia</label>
+            <language>en</language>
+            <name>x_570207_esami2_tab1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:57:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f8323152f752010230fbea62799b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:57:12</sys_updated_on>
+            <value>economia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>facolt</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Informatica</label>
+            <language>en</language>
+            <name>x_570207_esami2_tab1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:57:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f8323152f752010230fbea62799b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:57:13</sys_updated_on>
+            <value>informatica</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>facolt</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scienze</label>
+            <language>en</language>
+            <name>x_570207_esami2_tab1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:57:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>478323152f752010230fbea62799b628</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:57:13</sys_updated_on>
+            <value>scienze</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>facolt</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Statistica</label>
+            <language>en</language>
+            <name>x_570207_esami2_tab1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:57:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c78323152f752010230fbea62799b623</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:57:12</sys_updated_on>
+            <value>statistica</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

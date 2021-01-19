@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_570207_esami2.esame_user" name="x_570207_esami2.esame_user">5892bea12f7d2010230fbea62799b603</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:01:42</sys_created_on>
+        <sys_id>5c92bea12f7d2010230fbea62799b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5892bea12f7d2010230fbea62799b603</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5c92bea12f7d2010230fbea62799b606</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:01:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

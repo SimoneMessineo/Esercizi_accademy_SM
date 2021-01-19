@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Info" section_id="3cbf362d2f7d2010230fbea62799b6ce" sys_domain="global" table="x_570207_esami2_tab1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 09:36:02</sys_created_on>
+            <sys_id>02280fa12fbd2010230fbea62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Info" display_value="Info" name="x_570207_esami2_tab1" sys_domain="global" view="Default view">3cbf362d2f7d2010230fbea62799b6ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 09:36:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 09:36:02</sys_created_on>
+            <sys_id>82280fa12fbd2010230fbea62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Info" display_value="Info" name="x_570207_esami2_tab1" sys_domain="global" view="Default view">3cbf362d2f7d2010230fbea62799b6ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 09:36:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 09:36:02</sys_created_on>
+            <sys_id>06280fa12fbd2010230fbea62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Info" display_value="Info" name="x_570207_esami2_tab1" sys_domain="global" view="Default view">3cbf362d2f7d2010230fbea62799b6ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 09:36:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 09:36:02</sys_created_on>
+            <sys_id>86280fa12fbd2010230fbea62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Info" display_value="Info" name="x_570207_esami2_tab1" sys_domain="global" view="Default view">3cbf362d2f7d2010230fbea62799b6ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 09:36:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 09:36:02</sys_created_on>
+            <sys_id>0a280fa12fbd2010230fbea62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Info" display_value="Info" name="x_570207_esami2_tab1" sys_domain="global" view="Default view">3cbf362d2f7d2010230fbea62799b6ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 09:36:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Info</caption>
+            <header>false</header>
+            <name>x_570207_esami2_tab1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:59:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cbf362d2f7d2010230fbea62799b6ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_570207_esami2_tab1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+            <sys_update_name>sys_ui_section_3cbf362d2f7d2010230fbea62799b6ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 09:36:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

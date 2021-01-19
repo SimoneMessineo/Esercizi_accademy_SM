@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_570207_esami2_esame" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_570207_esami2_esame" element="NULL" name="x_570207_esami2_esame" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">36d73ea52f7d2010230fbea62799b62b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:24:48</sys_created_on>
+            <sys_id>f2d73ea52f7d2010230fbea62799b62c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:24:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assignedto</element>
+            <list_id display_value="x_570207_esami2_esame" element="NULL" name="x_570207_esami2_esame" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">36d73ea52f7d2010230fbea62799b62b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:24:48</sys_created_on>
+            <sys_id>7ad73ea52f7d2010230fbea62799b62c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:24:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_state_e</element>
+            <list_id display_value="x_570207_esami2_esame" element="NULL" name="x_570207_esami2_esame" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">36d73ea52f7d2010230fbea62799b62b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:24:48</sys_created_on>
+            <sys_id>fad73ea52f7d2010230fbea62799b62c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:24:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_570207_esami2_esame</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 08:24:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36d73ea52f7d2010230fbea62799b62b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570207_esami2_esame</sys_name>
+            <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+            <sys_update_name>sys_ui_list_x_570207_esami2_esame_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:24:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Esami2">ea1323d12f752010230fbea62799b6e8</application>
+        <file_path/>
+        <instance_id>2b2fc5f8db6edb80ff27d5b0cf961903</instance_id>
+        <instance_name>dev60566</instance_name>
+        <name>sys_ui_list_x_570207_esami2_esame_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_570207_esami2_esame" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_570207_esami2_esame" element="NULL" name="x_570207_esami2_esame" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">36d73ea52f7d2010230fbea62799b62b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:24:48</sys_created_on><sys_id>f2d73ea52f7d2010230fbea62799b62c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 08:24:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_assignedto</element><list_id display_value="x_570207_esami2_esame" element="NULL" name="x_570207_esami2_esame" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">36d73ea52f7d2010230fbea62799b62b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:24:48</sys_created_on><sys_id>7ad73ea52f7d2010230fbea62799b62c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 08:24:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_state_e</element><list_id display_value="x_570207_esami2_esame" element="NULL" name="x_570207_esami2_esame" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">36d73ea52f7d2010230fbea62799b62b</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:24:48</sys_created_on><sys_id>fad73ea52f7d2010230fbea62799b62c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 08:24:48</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_570207_esami2_esame</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:24:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>36d73ea52f7d2010230fbea62799b62b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_570207_esami2_esame</sys_name><sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package><sys_policy/><sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope><sys_update_name>sys_ui_list_x_570207_esami2_esame_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 08:24:48</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1987150089</payload_hash>
+        <record_name>Esame</record_name>
+        <reverted_from/>
+        <source>6a1323d12f752010230fbea62799b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:24:48</sys_created_on>
+        <sys_id>b6d73ea52f7d2010230fbea62799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17719bf128d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:24:48</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>76d73ea5887d201032fafa3b7887952e</update_guid>
+        <update_guid_history>76d73ea5887d201032fafa3b7887952e:-1987150089</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:54:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>12835058153f475d88df282f4a7803a1</sys_id>
+        <sys_metadata>36d73ea52f7d2010230fbea62799b62b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_570207_esami2_esame</sys_name>
+        <sys_package display_value="Esami2" source="x_570207_esami2">ea1323d12f752010230fbea62799b6e8</sys_package>
+        <sys_parent display_value="">aa623ea12f7d2010230fbea62799b676</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Esami2">ea1323d12f752010230fbea62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">368a710ea3b94488b4614fc48471f804</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_570207_esami2_esame_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_570207_esami2_esame_null">b6d73ea52f7d2010230fbea62799b62e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:54:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
